@@ -18,7 +18,7 @@
   "license": "MIT",
   "require": {
     "php": ">=7.1.0",
-    "propaganistas/laravel-phone": "dev-master"
+    "propaganistas/laravel-phone": "dev-master#123022d0f7e23a539b647733318440a4c1abdfa3"
   },
   "autoload": {
     "psr-4": {
